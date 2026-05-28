@@ -1,0 +1,23 @@
+{
+  "files": [
+    "projects/protocolo_analise/protocolo_analise.md",
+    "projects/protocolo_analise/protocolo_analise_EN.md",
+    "projects/protocolo_analise/relatorio_protocolo_analise.md",
+    "projects/protocolo_analise/code/importacao_multiplos_arquivos.py",
+    "projects/protocolo_analise/code/eda_smart.py",
+    "projects/protocolo_analise/code/limpeza_outliers.py",
+    "projects/protocolo_analise/code/split_examples.py",
+    "projects/protocolo_analise/code/feature_selection_rfecv.py",
+    "projects/protocolo_analise/code/balanceamento.py",
+    "projects/protocolo_analise/code/model_examples.py",
+    "projects/protocolo_analise/code/model_search_grid.py",
+    "projects/protocolo_analise/code/stacking_example.py",
+    "projects/protocolo_analise/code/semi_supervised_pseudo_label.py",
+    "projects/protocolo_analise/code/unsupervised_kmeans.py",
+    "projects/protocolo_analise/code/shap_example.py",
+    "projects/protocolo_analise/code/evaluation_examples.py",
+    "projects/protocolo_analise/code/drift_monitoring_example.py",
+    "projects/protocolo_analise/requirements.txt",
+    "projects/protocolo_analise/hypotheses.csv"
+  ]
+}

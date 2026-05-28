@@ -1,0 +1,2 @@
+id,enunciado,teste_sugerido,autor,data,estado
+HYP-001,"Após o deploy da versão X em 2026-01-01, a taxa de churn mensal diminuiu pelo menos 5 pontos percentuais nos 3 meses subsequentes comparada aos 3 meses anteriores?","bootstrap de diferença de proporções (ou teste de proporções/z-test), alternativamente bootstrap para CI",Reporter,2026-05-28,proposed
