@@ -26,7 +26,7 @@ TABLE OF CONTENTS (main sections)
 
 ---
 
-Note: DO NOT run the code here — corresponding scripts were saved in `projects/protocolo_analise/code/`.
+![flow](flow.png)
 
 1) Importing multiple files
 
